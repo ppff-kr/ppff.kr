@@ -5,12 +5,12 @@
 
 # Multisig Treasury
 
-https://optimistic.etherscan.io/address/0xd59f746f5daaa4afb34abb4b5ac4f702dcbced9d
+[https://optimistic.etherscan.io/address/0xd59f746f5daaa4afb34abb4b5ac4f702dcbced9d](https://optimistic.etherscan.io/address/0xd59f746f5daaa4afb34abb4b5ac4f702dcbced9d)
 
 # Project 1: Learn from your journey
 
-https://forms.gle/szTfQBm6J2PfeVcS8
+[https://forms.gle/szTfQBm6J2PfeVcS8](https://forms.gle/szTfQBm6J2PfeVcS8)
 
 # Related project
 
-https://ppff.xyz
+[https://ppff.xyz](https://ppff.xyz)
